@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+  <style>
+    body {
+  background-image: url("https://cdn.shopify.com/s/files/1/1095/1464/files/Loca_kolo_wiz_720x.jpg?v=1684331832");
+}
+.css-lo36cw {
+    width: 300px;
+    height: 268px;
+    -webkit-transition: -webkit-transform,height 0.6s;
+    transition: transform,height 0.6s;
+    transform-style: preserve-3d;
+    background: linear-gradient( 334deg, rgba(0, 0, 0, 0.2) -1.37%, rgba(255, 255, 255, 0.094) -1.36%, rgba(255, 255, 255, 0.2) 96.93% );
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    -webkit-backdrop-filter: blur(27.5px);
+    backdrop-filter: blur(27.5px);
+    position: relative;
+    border-radius: 34px;
+  z-index: 9;
+}
+  </style>
+  </head>
+<div class="css-lo36cw"><div class="content"><div class="front"><img alt="NFT
+Access" loading="lazy" width="159" height="159" decoding="async" data-nimg="1" style="color:transparent" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFeature2.d27cf281.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFeature2.d27cf281.png&amp;w=384&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFeature2.d27cf281.png&amp;w=384&amp;q=75"><h3><pre>NFT
+Access</pre></h3></div><div class="back"><p>Identify your unique path to success by exploring talent, business, or investor opportunities.</p></div></div></div>
+</body>
